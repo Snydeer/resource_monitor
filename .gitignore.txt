@@ -1,0 +1,2 @@
+#ogmpre all .temp files
+*.temp
